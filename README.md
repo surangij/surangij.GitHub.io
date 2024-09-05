@@ -6,6 +6,6 @@ containing the largest human genotype data. Genotype data consists of high cover
 This could be used for applications for the healthcare and drawing correlations between gene mutations and cancer types or treatments. 
 
 Free Data Science Book
-He book is called Discuptive Possibilities: How Big Data changes Everything by Jeffery Needham 
+THe book is called Discuptive Possibilities: How Big Data changes Everything by Jeffery Needham 
 Jeffrey Needham explains how big data can provide visibility into the operational efficiency of enterprises and agencies.
 https://www.amazon.com/Disruptive-Possibilities-Data-Changes-Everything-ebook/dp/B00CLH387W
